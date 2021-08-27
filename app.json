@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
+  "name": "MineFlayer Bot",
+  "description": "A Minecraft Bot Made By Node.js and MineFlayer",
+  "repository": "https://github.com/Geruays/node-mc-bot",
+  "logo": "https://raw.githubusercontent.com/Geruays/node-mc-bot/main/PicsArt_08-24-04.07.59.jpg",
+  "keywords": ["node"]
 }
